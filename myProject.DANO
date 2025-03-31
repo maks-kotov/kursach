@@ -1,0 +1,1514 @@
+********************************************************************************
+***                       Micro-Cap 12.2.0.5 (64 bit)                        ***
+***                                                                          ***
+***                                                                          ***
+***                         Dynamic AC of myProject                          ***
+***                           19.03.2025 13:44:59                            ***
+********************************************************************************
+
+*****************************************************
+***                Temperature=27                 ***
+*****************************************************
+
+Temperature=27
+
+AC Voltages at Frequency=1e+006 (Mag, Degrees)
+==============================================
+Node               Voltage  Node               Voltage 
+1                        0  2                        0 
+3                        0  4                        0 
+5                        0  6                        0 
+7                        0  8                        0 
+9                        0  10                       0 
+11                       0  12                       0 
+17                       0  18                       0 
+19                       0  20                       0 
+21                       0  22                       0 
+23                       0  24                       0 
+25                       0  26                       0 
+27                       0  X1.1                     0 
+X1.3                     0  X1.4                     0 
+X1.5                     0  X1.6                     0 
+X1.8                     0  X1.9                     0 
+X1.10                    0  X1.11                    0 
+X1.12                    0  X1.13                    0 
+X1.14                    0  X1.15                    0 
+X1.16                    0  X1.17                    0 
+X1.18                    0  X1.19                    0 
+X1.20                    0  X1.21                    0 
+X1.23                    0  X1.24                    0 
+X1.25                    0  X1.26                    0 
+X1.27                    0  X1.28                    0 
+X1.29                    0  X1.30                    0 
+X1.31                    0  X1.32                    0 
+X1.33                    0  X1.34                    0 
+X1.35                    0  X1.36                    0 
+X1.37                    0  X1.38                    0 
+X2.TRIGLEV               0  X2.5                     0 
+X2.6                     0  X2.X18$.A                0 
+X2.X19$.A                0  X2.X20$.A                0 
+$G_CD4000_VDD            0  $G_CD4000_VSS            0 
+$G_555_VSS               0  $G_555_VDD               0 
+X3.X5$.AIN               0  X3.X5$.VTH               0 
+X2.X7$.AIN               0  X2.X7$.VTH               0 
+X2.X9$.VIOH              0  X2.X9$.VIOL              0 
+X2.X9$.VDDRES            0  X2.X9$.VSSRES            0 
+X3.X10$.AIN              0  X3.X10$.VTH              0 
+X3.X11$.VIOH             0  X3.X11$.VIOL             0 
+X3.X11$.VDDRES           0  X3.X11$.VSSRES           0 
+X3.X12$.VIOH             0  X3.X12$.VIOL             0 
+X3.X12$.VDDRES           0  X3.X12$.VSSRES           0 
+X3.X13$.VIOH             0  X3.X13$.VIOL             0 
+X3.X13$.VDDRES           0  X3.X13$.VSSRES           0 
+X3.X14$.VIOH             0  X3.X14$.VIOL             0 
+X3.X14$.VDDRES           0  X3.X14$.VSSRES           0 
+X3.X15$.VIOH             0  X3.X15$.VIOL             0 
+X3.X15$.VDDRES           0  X3.X15$.VSSRES           0 
+X3.X16$.VIOH             0  X3.X16$.VIOL             0 
+X3.X16$.VDDRES           0  X3.X16$.VSSRES           0 
+X3.X17$.VIOH             0  X3.X17$.VIOL             0 
+X3.X17$.VDDRES           0  X3.X17$.VSSRES           0 
+X2.X18$.AIN              0  X2.X18$.VTH              0 
+X2.X19$.AIN              0  X2.X19$.VTH              0 
+X2.X20$.VIOH             0  X2.X20$.VIOL             0 
+X2.X20$.VDDRES           0  X2.X20$.VSSRES           0 
+
+DC Operating Point Digital States
+=================================
+Node       State Node       State Node       State Node       State
+13         1     14         0     15         0     16         0    
+X2.7       X     X3.Q1FF    0     X3.Q2FF    0     X3.Q3FF    0    
+X3.Q4FF    0     X3.Q5FF    0     X3.Q1FFBAR 1     X3.Q2FFBAR 1    
+X3.Q3FFBAR 1     X3.Q4FFBAR 1     X3.Q5FFBAR 1     X3.CLOCK   X    
+X3.CLEAR   1     X3.I1      0     X3.COUT_O  1     X3.Q0_O    1    
+X3.Q1_O    0     X3.Q2_O    0     X3.Q3_O    0     X3.Q4_O    0    
+X3.Q5_O    0     X3.Q6_O    0     X3.Q7_O    0     X3.Q8_O    0    
+X3.Q9_O    0     $D_HI      1     0$ATOD     0     7$ATOD     1    
+10$DTOA    X     12$ATOD    0     17$DTOA    0     18$DTOA    0    
+19$DTOA    0     20$DTOA    0     21$DTOA    0     22$DTOA    0    
+23$DTOA    1     X2.X18$.D  1     X2.X19$.D  0     X2.X20$.D  X    
+           X    
+
+
+AC values for Diode (Mag, Degrees)
+==================================
+Instance:                     D3                  D4                  D5
+Using model:              IRL80A              IRL80A              IRL80A
+
+Power AC Terms:
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Id                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+ic                        0.000               0.000               0.000 
+
+
+Instance:                     D6                  D7                  D8
+Using model:              IRL80A              IRL80A              IRL80A
+
+Power AC Terms:
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Id                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+ic                        0.000               0.000               0.000 
+
+
+Instance:                     D9              LED4.D               X1.D1
+Using model:              IRL80A                  NA             X1.DZ63
+
+Power AC Terms:
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Id                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+ic                        0.000               0.000               0.000 
+
+
+Instance:                  X1.D3               X1.D4               X1.D5
+Using model:             X1.DZ63             X1.DZ63             X1.DZ63
+
+Power AC Terms:
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Id                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+ic                        0.000               0.000               0.000 
+
+
+Instance:              X3.X5$.D1           X3.X5$.D2           X2.X7$.D1
+Using model:             D74CLMP             D74CLMP             D74CLMP
+
+Power AC Terms:
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Id                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+ic                        0.000               0.000               0.000 
+
+
+Instance:              X2.X7$.D2          X3.X10$.D1          X3.X10$.D2
+Using model:             D74CLMP             D74CLMP             D74CLMP
+
+Power AC Terms:
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Id                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+ic                        0.000               0.000               0.000 
+
+
+Instance:             X2.X18$.D1          X2.X18$.D2          X2.X19$.D1
+Using model:             D74CLMP             D74CLMP             D74CLMP
+
+Power AC Terms:
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Id                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+ic                        0.000               0.000               0.000 
+
+
+Instance:             X2.X19$.D2
+Using model:             D74CLMP
+
+Power AC Terms:
+PD                             0
+PS                             0
+
+AC Pin Currents:
+Id                             0
+
+Device Variables:
+area                      1.000 
+ic                        0.000 
+
+
+
+AC values for Bipolar Junction Transistors NPN (Mag, Degrees)
+=============================================================
+Instance:                 X1.Q17              X1.Q18              X1.Q19
+Using model:              X1.QN1              X1.QN1              X1.QN1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q22              X1.Q26              X1.Q29
+Using model:              X1.QN1              X1.QN1              X1.QN1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q30              X1.Q35              X1.Q36
+Using model:              X1.QN1              X1.QN1              X1.QN1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                     10.000               1.000               1.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q37              X1.Q38              X1.Q41
+Using model:              X1.QN1              X1.QN1              X1.QN1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                      1.000               2.000              40.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q42               X2.Q1
+Using model:              X1.QN1              X2.DIS
+
+Power AC Terms:
+PG                             0                   0
+PD                             0                   0
+PS                             0                   0
+
+AC Pin Currents:
+Ib                             0                   0
+Ic                             0                   0
+Ie                             0                   0
+Is                             0                   0
+
+Device Variables:
+area                    200.000               1.000 
+vbe                       0.000               0.000 
+vce                       0.000               0.000 
+
+
+
+AC values for Bipolar Junction Transistors PNP (Mag, Degrees)
+=============================================================
+Instance:                  X1.Q1               X1.Q2              X1.Q20
+Using model:              X1.QP1              X1.QP1              X1.QP1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                    250.000m            250.000m              1.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q21              X1.Q23              X1.Q25
+Using model:              X1.QP1              X1.QP1              X1.QP1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q27              X1.Q28              X1.Q31
+Using model:              X1.QP1              X1.QP1              X1.QP1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q32              X1.Q33              X1.Q34
+Using model:              X1.QP1              X1.QP1              X1.QP1
+
+Power AC Terms:
+PG                             0                   0                   0
+PD                             0                   0                   0
+PS                             0                   0                   0
+
+AC Pin Currents:
+Ib                             0                   0                   0
+Ic                             0                   0                   0
+Ie                             0                   0                   0
+Is                             0                   0                   0
+
+Device Variables:
+area                      1.000               1.000               1.000 
+vbe                       0.000               0.000               0.000 
+vce                       0.000               0.000               0.000 
+
+
+Instance:                 X1.Q39              X1.Q40
+Using model:              X1.QP1              X1.QP1
+
+Power AC Terms:
+PG                             0                   0
+PD                             0                   0
+PS                             0                   0
+
+AC Pin Currents:
+Ib                             0                   0
+Ic                             0                   0
+Ie                             0                   0
+Is                             0                   0
+
+Device Variables:
+area                      2.000               2.000 
+vbe                       0.000               0.000 
+vce                       0.000               0.000 
+
+
+
+AC values for Jfet NJF (Mag, Degrees)
+=====================================
+Instance:                  X1.J1
+Using model:              X1.NJ1
+
+Power AC Terms:
+PD                             0
+PS                             0
+
+AC Pin Currents:
+Ig                             0
+Id                             0
+Is                             0
+
+Device Variables:
+area                      1.000 
+vds                       0.000 
+vgs                       0.000 
+
+
+
+AC values for Resistor (Mag, Degrees)
+=====================================
+Instance:                      R4                  R1                  R3
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                      R8           LIGHT1.R1           LIGHT1.R2
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:               LIGHT1.R3           LIGHT2.R1           LIGHT2.R2
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:               LIGHT2.R3                 R12                 R13
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                METER3.R               X1.R1               X1.R2
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                   X1.R3              X1.R13              X1.R14
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  X1.R15              X1.R16              X1.R17
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  X1.R19              X1.R20              X1.R21
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  X1.R22              X1.R23              X1.R25
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  X1.R26              X1.R27              X1.R28
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  X1.R29              X1.R30              X1.R31
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  X1.R32              X1.R33              X1.R34
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  X1.R35              X1.R37              X1.R38
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                   R2.R1               R2.R2               X2.R1
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                   X2.R2               X2.R3               X2.R6
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                   X2.R7               X2.R8               X2.R9
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                   X4.R1               X4.R2           X3.X5$.R1
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:               X3.X6$.R1           X3.X6$.R2           X3.X6$.R3
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:               X2.X7$.R1           X2.X8$.R1           X2.X8$.R2
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:               X2.X8$.R3           X2.X9$.R1           X2.X9$.R2
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:             X2.X9$.RPOW         X2.X9$.RGND          X3.X10$.R1
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X3.X11$.R1          X3.X11$.R2        X3.X11$.RPOW
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:            X3.X11$.RGND          X3.X12$.R1          X3.X12$.R2
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:            X3.X12$.RPOW        X3.X12$.RGND          X3.X13$.R1
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X3.X13$.R2        X3.X13$.RPOW        X3.X13$.RGND
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X3.X14$.R1          X3.X14$.R2        X3.X14$.RPOW
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:            X3.X14$.RGND          X3.X15$.R1          X3.X15$.R2
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:            X3.X15$.RPOW        X3.X15$.RGND          X3.X16$.R1
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X3.X16$.R2        X3.X16$.RPOW        X3.X16$.RGND
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X3.X17$.R1          X3.X17$.R2        X3.X17$.RPOW
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:            X3.X17$.RGND          X2.X18$.R1          X2.X19$.R1
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X2.X20$.R1          X2.X20$.R2        X2.X20$.RPOW
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:            X2.X20$.RGND     X2.X9$.N1.rhigh      X2.X9$.N1.rlow
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:        X3.X11$.N1.rhigh     X3.X11$.N1.rlow    X3.X12$.N1.rhigh
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:         X3.X12$.N1.rlow    X3.X13$.N1.rhigh     X3.X13$.N1.rlow
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:        X3.X14$.N1.rhigh     X3.X14$.N1.rlow    X3.X15$.N1.rhigh
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:         X3.X15$.N1.rlow    X3.X16$.N1.rhigh     X3.X16$.N1.rlow
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:        X3.X17$.N1.rhigh     X3.X17$.N1.rlow    X2.X20$.N1.rhigh
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:         X2.X20$.N1.rlow              V1.int              V1.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  R3.int              C3.int              R4.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:                  R1.int           X1.R1.int           X1.R2.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:               X1.Q1.int           X1.Q1.int           X1.R3.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q17.int          X1.Q18.int          X1.R15.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q19.int          X1.Q19.int          X1.R17.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q21.int          X1.Q22.int          X1.Q22.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.R21.int          X1.Q25.int          X1.Q26.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q27.int          X1.Q28.int          X1.R25.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q30.int          X1.Q30.int          X1.Q34.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q35.int          X1.R28.int          X1.Q36.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q36.int          X1.Q37.int          X1.Q38.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q38.int          X1.R32.int          X1.R33.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q42.int           X1.D3.int          X1.R35.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              METER3.int            LED4.int            LED4.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:               X1.Q1.int           X1.Q2.int          X1.Q17.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q18.int          X1.Q19.int          X1.Q20.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q21.int          X1.Q22.int          X1.Q23.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q25.int          X1.Q26.int          X1.Q27.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q28.int          X1.Q29.int          X1.Q30.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q31.int          X1.Q32.int          X1.Q33.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q34.int          X1.Q35.int          X1.Q36.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q37.int          X1.Q38.int          X1.Q39.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+Instance:              X1.Q40.int          X1.Q41.int          X1.Q42.int
+
+Power AC Terms:
+PD                              0                   0                   0
+
+AC Pin Currents:
+Ir                              0                   0                   0
+
+Device Variables:
+tc1                        0.000               0.000               0.000 
+tc2                        0.000               0.000               0.000 
+
+
+
+AC values for Capacitor (Mag, Degrees)
+======================================
+Instance:                      C1                  C2                  C3
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:                      C4                  C5                  C7
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:                      C9               X1.C1               X1.C2
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:                   X1.C3               X2.C3               X2.C4
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:                   X2.C5           X3.X5$.C1           X2.X7$.C1
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:            X2.X9$.CLOAD          X3.X10$.C1       X3.X11$.CLOAD
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:           X3.X12$.CLOAD       X3.X13$.CLOAD       X3.X14$.CLOAD
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:           X3.X15$.CLOAD       X3.X16$.CLOAD       X3.X17$.CLOAD
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+Instance:              X2.X18$.C1          X2.X19$.C1       X2.X20$.CLOAD
+
+Power AC Terms:
+PS                              0                   0                   0
+
+AC Pin Currents:
+Ic                              0                   0                   0
+
+Device Variables:
+ic                         0.000               0.000               0.000 
+
+
+
+AC values for Function Source (Mag, Degrees)
+============================================
+Instance:                  X2.E1               X2.E2           X3.X5$.E2
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:              X2.X7$.E2          X3.X10$.E2          X2.X18$.E2
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:             X2.X19$.E2
+
+Power AC Terms:
+PG                             0
+
+AC Pin Currents:
+ISource                        0
+
+
+
+AC values for SPICE Source (Mag, Degrees)
+=========================================
+Instance:                     V1           LIGHT1.V1           LIGHT1.V2
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:              LIGHT1.V3           LIGHT2.V1           LIGHT2.V2
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:              LIGHT2.V3            METER3.V              LED4.V
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:                     V2           X3.X6$.V1           X3.X6$.V2
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:              X2.X8$.V1           X2.X8$.V2
+
+Power AC Terms:
+PG                             0                   0
+
+AC Pin Currents:
+ISource                        0                   0
+
+
+
+AC values for Table Source (Mag, Degrees)
+=========================================
+Instance:              X3.X5$.E1           X2.X7$.E1           X2.X9$.E1
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:              X2.X9$.E2          X3.X10$.E1          X3.X11$.E1
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:             X3.X11$.E2          X3.X12$.E1          X3.X12$.E2
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:             X3.X13$.E1          X3.X13$.E2          X3.X14$.E1
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:             X3.X14$.E2          X3.X15$.E1          X3.X15$.E2
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:             X3.X16$.E1          X3.X16$.E2          X3.X17$.E1
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:             X3.X17$.E2          X2.X18$.E1          X2.X19$.E1
+
+Power AC Terms:
+PG                             0                   0                   0
+
+AC Pin Currents:
+ISource                        0                   0                   0
+
+
+Instance:             X2.X20$.E1          X2.X20$.E2
+
+Power AC Terms:
+PG                             0                   0
+
+AC Pin Currents:
+ISource                        0                   0
+
+
